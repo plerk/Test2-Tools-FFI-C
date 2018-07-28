@@ -1,2 +1,4 @@
 /Test2-Tools-FFI-C-*
 /.build
+/build
+/share/*
